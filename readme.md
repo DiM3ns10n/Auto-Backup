@@ -14,7 +14,7 @@ Backup/
 
 1. Clone this repository:
 ```
-    git clone https://github.com/yourusername/auto-backup.git
+    git clone git@github.com:DiM3ns10n/Auto-Backup.git
 ```
 
 2. Navigate to the project directory:
