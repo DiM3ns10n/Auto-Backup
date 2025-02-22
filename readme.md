@@ -19,7 +19,7 @@ Backup/
 
 2. Navigate to the project directory:
 ```
-    cd auto-backup
+    cd Auto-Backup
 ```
 
 3. Run the script:
